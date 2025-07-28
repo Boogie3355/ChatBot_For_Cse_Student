@@ -22,9 +22,9 @@ Overall, this project demonstrates a practical application of front-end web deve
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ea94c487-5e18-4146-8e6e-c1851b56ad3d" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00ec6f4f-6825-4887-ba25-74347e4fcabc" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9aa29b8-c86a-4c44-8dfa-a6bb75770545" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00ec6f4f-6825-4887-ba25-74347e4fcabc" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2dfbca5d-c6e5-4924-8c59-01c8c21942c2" />
 
