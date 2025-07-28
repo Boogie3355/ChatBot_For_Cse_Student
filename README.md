@@ -14,3 +14,20 @@ In the future, this chatbot can be enhanced by incorporating Natural Language Pr
 
 Overall, this project demonstrates a practical application of front-end web development combined with Firebase authentication to create a functional and secure student support tool.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/77ff102a-cfed-4bb9-998a-52aff8b918f7" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2dfbca5d-c6e5-4924-8c59-01c8c21942c2" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2ebca81d-6788-49ad-b5b1-22bb00be891a" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00ec6f4f-6825-4887-ba25-74347e4fcabc" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dafdcb2e-198d-42a1-84c3-a73d1237e581" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d951821e-bef0-445e-94e3-a6b665fa3275" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ea94c487-5e18-4146-8e6e-c1851b56ad3d" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9aa29b8-c86a-4c44-8dfa-a6bb75770545" />
+
+
