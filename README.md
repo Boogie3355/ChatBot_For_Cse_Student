@@ -13,18 +13,4 @@ This project is ideal for beginners in web development who want to explore integ
 In the future, this chatbot can be enhanced by incorporating Natural Language Processing (NLP) tools or connecting to AI models for more advanced conversation capabilities. Additional features like chat history, feedback collection, and multilingual support can also be implemented.
 
 Overall, this project demonstrates a practical application of front-end web development combined with Firebase authentication to create a functional and secure student support tool.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/77ff102a-cfed-4bb9-998a-52aff8b918f7" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2dfbca5d-c6e5-4924-8c59-01c8c21942c2" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2ebca81d-6788-49ad-b5b1-22bb00be891a" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00ec6f4f-6825-4887-ba25-74347e4fcabc" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9aa29b8-c86a-4c44-8dfa-a6bb75770545" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2dfbca5d-c6e5-4924-8c59-01c8c21942c2" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2ebca81d-6788-49ad-b5b1-22bb00be891a" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00ec6f4f-6825-4887-ba25-74347e4fcabc" />
