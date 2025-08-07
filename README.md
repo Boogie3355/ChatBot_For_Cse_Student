@@ -13,7 +13,9 @@ This project is ideal for beginners in web development who want to explore integ
 In the future, this chatbot can be enhanced by incorporating Natural Language Processing (NLP) tools or connecting to AI models for more advanced conversation capabilities. Additional features like chat history, feedback collection, and multilingual support can also be implemented.
 
 Overall, this project demonstrates a practical application of front-end web development combined with Firebase authentication to create a functional and secure student support tool.
-{▶️ Watch Demo}(https://youtu.be/LPoPVFeNgVY)
+
+[▶️ Watch Demo](https://youtu.be/LPoPVFeNgVY)
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/77ff102a-cfed-4bb9-998a-52aff8b918f7" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dafdcb2e-198d-42a1-84c3-a73d1237e581" />
